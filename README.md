@@ -92,9 +92,7 @@ The output Excel file contains the following columns:
 
 ![image](https://github.com/user-attachments/assets/02db3bd2-7c7f-44df-84d4-b9ab85bc5289)
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -210,3 +208,7 @@ pip install pandas
 
 ### Functions
 * `main(log_file_path: str)`: The main function to run the compliance analysis. It reads the log file, runs the analysis, and saves the generated report.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
