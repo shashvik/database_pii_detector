@@ -4,7 +4,7 @@
 ## Overview
 
 The **Database PII Detector** is a Python application designed to scan databases for Personally Identifiable Information (PII). It identifies sensitive data types such as email addresses, phone numbers, Social Security Numbers (SSNs), credit card numbers, and other critical information, providing insights into potential compliance violations.
-
+Blog Post: https://medium.com/@shashvik/guardians-of-data-how-understanding-what-you-store-protects-your-world-22a0d781caff
 ## Features
 
 - **Regex-based Detection**: Utilizes regex patterns to identify various types of PII in database columns.
